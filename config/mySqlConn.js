@@ -7,7 +7,7 @@ var pool  = mysql_pool.createPool({
         "password":"12345678",
         "reconnect":true,
         "data_source_provider":"rds",
-        "type":"mysql",
+        "type":"mysql"
 
 	// host     : 'localhost',
 	// user     : 'root',
